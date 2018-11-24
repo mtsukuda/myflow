@@ -21,8 +21,8 @@ graph TD
     OTHER2---LOGIN
 ```
 
-## 基本サービスシーケンス
-このセクションでは基本シーケンスを記載します。
+## サービスシーケンス
+このセクションでは各サービスシーケンスを記述します。
 
 ### ログイン（Login）サービス
 ```mermaid
@@ -37,7 +37,7 @@ graph TD
       end
 ```
 
-### アカウント（Account）
+### アカウント（Account）サービス
 ```mermaid
 %% Account Service シーケンス
   sequenceDiagram
@@ -53,7 +53,7 @@ graph TD
       Account Service-->>User: Account Data
 ```
 
-### ウォレット（Wallet）
+### ウォレット（Wallet）サービス
 ```mermaid
 %% Account Service シーケンス
   sequenceDiagram
@@ -70,6 +70,6 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzEwMjM1MCw0NDU5NjE5NDgsMTU0Nj
-AzMTEwMV19
+eyJoaXN0b3J5IjpbLTE5OTg5NzA5NDgsNDQ1OTYxOTQ4LDE1ND
+YwMzExMDFdfQ==
 -->
