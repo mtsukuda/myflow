@@ -1,3 +1,4 @@
+
 # Microservices Architecture
 Microservices の基本構成図と基本フローを記述します。
 
@@ -21,8 +22,8 @@ graph TD
     OTHER2---LOGIN
 ```
 
-## サービスシーケンス
-このセクションでは各サービスシーケンスを記述します。
+## シーケンス
+このセクションではシーケンスを記述しま。
 
 ### ログイン（Login）サービス
 ```mermaid
@@ -70,6 +71,6 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg5NzA5NDgsNDQ1OTYxOTQ4LDE1ND
-YwMzExMDFdfQ==
+eyJoaXN0b3J5IjpbMTU0OTA0MDY3MywtMTk5ODk3MDk0OCw0ND
+U5NjE5NDgsMTU0NjAzMTEwMV19
 -->
