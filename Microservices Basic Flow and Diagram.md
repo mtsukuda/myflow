@@ -1,5 +1,5 @@
 # Microservices Architecture
-Microservices の基本構成図と基本フローを記述します。
+Microservices の基本構成図と基本フローを記述します。このページは [StackEditor](https://stackedit.io/) で
 
 ## 基本構成図
 Microservices の基本構成図。User は API Gateway を通じてアクセス、明示的なログイン（ログアウト）リクエスト以外は各サービスが一旦リクエストを受け取り、内部的に gRPC で Login Service に問い合わせ、ログイン状態かどうかを確認した上で、各サービスを継続するかどうかを決定する。
@@ -68,5 +68,5 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjAzMTEwMV19
+eyJoaXN0b3J5IjpbMjAzOTc0MDAzOCwxNTQ2MDMxMTAxXX0=
 -->
