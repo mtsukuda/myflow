@@ -22,8 +22,8 @@ graph TD
     OTHER2---LOGIN
 ```
 
-## サービスシーケンス
-このセクションでは各サービスシーケンスを記述します。
+## シーケンス
+このセクションではシーケンスを記述しま。
 
 ### ログイン（Login）サービス
 ```mermaid
@@ -71,5 +71,5 @@ graph TD
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDM2NTkzMF19
+eyJoaXN0b3J5IjpbMTU0OTA0MDY3M119
 -->
